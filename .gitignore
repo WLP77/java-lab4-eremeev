@@ -1,0 +1,15 @@
+target/
+.DS_Store
+
+.idea/
+.vscode/
+
+nbproject/private/
+build/
+dist/
+
+*.log
+*.class
+
+.env
+*.key
